@@ -7,6 +7,6 @@ Ao acessar o link abaixo, você terá acesso ao meu currículo que contém infor
 
 # 
 
-Além disso, você pode ter acesso ao meu currículo por meio do PDF que está inserido no repositório.
+Além disso, você poderá acessar o meu currículo por meio de um PDF que está inserido no repositório.
 
 
