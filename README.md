@@ -1,8 +1,9 @@
 # Meu Currículo
 
-Ao acessar o link abaixo, você terá acesso ao meu currículo que contém informaçoes sobre meus dados pessoais, bem como a minha jornada e formação acadêmica, experiências, competências e meus objetivos na minha carreira profissional.
+Ao fazer dowload do PDF abaixo, você terá acesso ao meu currículo que contém informaçoes sobre meus dados pessoais, bem como a minha jornada e formação acadêmica, experiências, competências e meus objetivos na minha carreira profissional.
 
-[**Acessar Currículo**](https://www.cvwizard.com/d/7jPOboKJIoruGV3VowZFm/view)
+[**Baixar Currículo**](https://github.com/user-attachments/files/19880271/Curriculo.de.Guilherme.Henrique.Cassula.pdf)
+
 
 
 
